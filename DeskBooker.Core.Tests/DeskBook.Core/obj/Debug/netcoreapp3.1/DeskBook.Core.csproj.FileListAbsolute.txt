@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\bin\Debug\netcoreapp3.1\DeskBook.Core.deps.json
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\bin\Debug\netcoreapp3.1\DeskBook.Core.dll
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\bin\Debug\netcoreapp3.1\DeskBook.Core.pdb
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.dll
+C:\Users\HP\Desktop\Pluralsight\TestDrivenDev\02\demos\before\DeskBooker.Core.Tests\DeskBook.Core\obj\Debug\netcoreapp3.1\DeskBook.Core.pdb
